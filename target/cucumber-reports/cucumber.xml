@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="4.756179">
+<testcase classname="Postgres DB Testing" name="Test Connection on DB" time="4.756179">
+<system-out><![CDATA[Given Connect to postgres DB Server.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

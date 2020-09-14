@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="usis-ic-maven2-releases" />
+      <option name="name" value="usis-ic-maven2-releases" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/usis-ic-maven2-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="everything-maven2-nexus2--proxy" />
+      <option name="name" value="everything-maven2-nexus2--proxy" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/everything-maven2-nexus2--proxy" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cse-ifs-maven2-group" />
+      <option name="name" value="cse-ifs-maven2-group" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/cse-ifs-maven2-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cse-nexus-snapshots-maven-proxy" />
+      <option name="name" value="cse-nexus-snapshots-maven-proxy" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/cse-nexus-snapshots-maven-proxy" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/cse-ifs-maven2-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cse-ifs-maven2-releases" />
+      <option name="name" value="cse-ifs-maven2-releases" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/cse-ifs-maven2-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cse-ifs-group-maven2-nexus2-proxy" />
+      <option name="name" value="cse-ifs-group-maven2-nexus2-proxy" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/cse-ifs-group-maven2-nexus2-proxy" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cse-ifs-maven2-snapshots" />
+      <option name="name" value="cse-ifs-maven2-snapshots" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/cse-ifs-maven2-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="usis-ic-group-maven2-nexus2-proxy" />
+      <option name="name" value="usis-ic-group-maven2-nexus2-proxy" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/usis-ic-group-maven2-nexus2-proxy" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cse-ic-releases-maven2-nexus2-hosted" />
+      <option name="name" value="cse-ic-releases-maven2-nexus2-hosted" />
+      <option name="url" value="https://nexus.us.equifax.com/repository/cse-ic-releases-maven2-nexus2-hosted" />
+    </remote-repository>
+  </component>
+</project>

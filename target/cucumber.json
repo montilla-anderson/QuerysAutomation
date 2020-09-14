@@ -1,0 +1,49 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Test Connection on DB",
+        "description": "",
+        "id": "postgres-db-testing;test-connection-on-db",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4716185400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Connect to postgres DB Server",
+            "match": {
+              "location": "DBConnectionAndQueryDB.connect_to_postgres_DB_Server()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@DBTesting"
+          }
+        ]
+      }
+    ],
+    "name": "Postgres DB Testing",
+    "description": "",
+    "id": "postgres-db-testing",
+    "keyword": "Feature",
+    "uri": "src/test/java/features/TestConection.feature",
+    "tags": [
+      {
+        "name": "@DBTesting",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
